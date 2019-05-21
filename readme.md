@@ -2,7 +2,7 @@
 
 Very basic sample leaflet application using heroku, nodejs, and MongoDB:
 Right now, it's just displaying the data from the database. 
-https://peaceful-ridge-84834.herokuapp.com/map
+<https://peaceful-ridge-84834.herokuapp.com/map>
 
 source code found here: https://github.com/joshuabryce/peaceful-ridge-84834
 
